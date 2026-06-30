@@ -1,0 +1,120 @@
+{
+  "best_hours": {
+    "Beauty": [
+      6,
+      13,
+      10
+    ],
+    "Comedy": [
+      4,
+      9,
+      12
+    ],
+    "Fashion": [
+      18,
+      2,
+      5
+    ],
+    "Fitness": [
+      2,
+      8,
+      16
+    ],
+    "Food": [
+      2,
+      3,
+      16
+    ],
+    "Lifestyle": [
+      8,
+      17,
+      21
+    ],
+    "Music": [
+      21,
+      17,
+      5
+    ],
+    "Photography": [
+      14,
+      22,
+      1
+    ],
+    "Technology": [
+      8,
+      9,
+      11
+    ],
+    "Travel": [
+      3,
+      9,
+      0
+    ]
+  },
+  "best_days": {
+    "Beauty": [
+      "Saturday",
+      "Tuesday"
+    ],
+    "Comedy": [
+      "Tuesday",
+      "Sunday"
+    ],
+    "Fashion": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "Fitness": [
+      "Friday",
+      "Thursday"
+    ],
+    "Food": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "Lifestyle": [
+      "Sunday",
+      "Saturday"
+    ],
+    "Music": [
+      "Saturday",
+      "Friday"
+    ],
+    "Photography": [
+      "Tuesday",
+      "Sunday"
+    ],
+    "Technology": [
+      "Wednesday",
+      "Monday"
+    ],
+    "Travel": [
+      "Saturday",
+      "Wednesday"
+    ]
+  },
+  "best_media": {
+    "Beauty": "reel",
+    "Comedy": "reel",
+    "Fashion": "reel",
+    "Fitness": "image",
+    "Food": "carousel",
+    "Lifestyle": "carousel",
+    "Music": "carousel",
+    "Photography": "reel",
+    "Technology": "reel",
+    "Travel": "image"
+  },
+  "best_hashtags": {
+    "Beauty": "many",
+    "Comedy": "moderate",
+    "Fashion": "none",
+    "Fitness": "many",
+    "Food": "none",
+    "Lifestyle": "moderate",
+    "Music": "moderate",
+    "Photography": "moderate",
+    "Technology": "many",
+    "Travel": "moderate"
+  }
+}
